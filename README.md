@@ -1,4 +1,10 @@
-# Concepts I've learned in this project
+# Living The Social Life Blog
+
+This project features a mimimalistic blog.
+
+Live Site: https://living-the-social-life-blog-by-alph.netlify.app/
+
+## Concepts I've learned in this project
 
 - Flexbox
     - distributing the space with the `justify-content` and `align-items` properties
